@@ -73,8 +73,6 @@ https://docs.aws.amazon.com/lambda/latest/dg/welcome.html
 - Infraestrutura escalável e resiliente
 - Menor esforço de gerenciamento
 
----
 
 ## 🗂 Estrutura do Repositório
-# redu-odecustosemfarmacia
-Projeto prático desenvolvido para o desafio da DIO
+
